@@ -26,7 +26,7 @@ const Contact = () => {
           </a>
 
           <a
-              href="https://www.linkedin.com/in/saiteja-ejjigiri-957816254/" 
+              href="https://www.linkedin.com/in/saiteja-ejjigiri/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="contact-email"
@@ -41,7 +41,7 @@ const Contact = () => {
         <ul>
           <li>
             <a 
-              href="https://www.linkedin.com/in/saiteja-ejjigiri-957816254/" 
+              href="https://www.linkedin.com/in/saiteja-ejjigiri/" 
               target="_blank" 
               rel="noopener noreferrer"
             >

@@ -9,7 +9,7 @@ const About = () => {
     <div className="about-container">
       <div className="about-intro">
         <p className="about-details">
-        Greetings! I am a dedicated software engineer currently contributing my skills and expertise at Albertsons, a leading name in the tech industry. With a career journey spanning several esteemed organizations including AT&T, Siemens, and Cisco Systems, where I embarked on a transformative internship in 2016, I have continually immersed myself in the dynamic realm of technology. 
+         Greetings! I am a dedicated software engineer currently leveraging my skills and expertise at Walmart, a leader in the tech industry. Over the years, I have had the privilege of contributing to several esteemed organizations, including Albertsons and AT&T, where I honed my abilities and embraced the dynamic and ever-evolving world of technology. 
          </p>
          <p className="about-details">
          My expertise lies in Java programming language, where I've leveraged the power of Spring framework to develop robust and efficient applications. Additionally, my experience extends to cloud technologies, particularly Azure, where I've led initiatives to migrate applications, implement cloud-native solutions, and optimize performance and cost-efficiency.         </p>

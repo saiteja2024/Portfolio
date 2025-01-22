@@ -9,7 +9,7 @@ const Resume = () => {
     <div className="resume-container">
         <div className="download-section">
             <a                 
-            href="/resume.pdf"
+            href="/SaiTeja2025Resume.pdf"
             className="resume-download"
             >
             Download CV
@@ -31,6 +31,34 @@ const Resume = () => {
             <li className="resume-item active">
               <div className="title">
                 <a
+                  href="https://www.linkedin.com/company/walmart/"
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="resume-links"
+                >
+                    Walmart, Tx, USA
+                </a>
+              </div>
+
+              <div className="sub-title">
+              Senior Software Engineer
+              </div>
+
+              <div className="sub-sub-title">February 2024 - Present</div>
+
+              <div className="content">
+                <p><b>Skills</b>: (Java8, Python, Spring Webflux, Azure, postgresql , Distributed Systems)</p>
+                <p> - Engineering backend services at Sam's Club MAP - Member Access Platform  </p>
+                <p> - Involved in developing spring webflux based java reactive application to manage ad campaigns </p>
+                <p> - Worked on Developing Apache Airflow DAG's using python </p>
+                <p></p>
+              </div>
+              <div className="pointer"></div>
+            </li>
+
+            <li className="resume-item active">
+              <div className="title">
+                <a
                   href="https://www.linkedin.com/company/albertsons/"
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -44,7 +72,7 @@ const Resume = () => {
               Senior Software Engineer
               </div>
 
-              <div className="sub-sub-title">April 2023 - Present</div>
+              <div className="sub-sub-title">April 2023 - January 2024</div>
 
               <div className="content">
                 <p><b>Skills</b>: (Java8, Spring, Kubernetes, Cloud, Controllers, Distributed Systems)</p>
@@ -100,7 +128,7 @@ const Resume = () => {
               Software Engineer
               </div>
 
-              <div className="sub-sub-title">October 2026 - Aril 2019</div>
+              <div className="sub-sub-title">October 2017 - Aril 2019</div>
 
               <div className="content">
                 <p><b>Skills</b>: (Java, Cassandra, Mysql, Postman APIs, Microsoft Azure, Kafka)</p>
@@ -156,7 +184,7 @@ const Resume = () => {
               </div>
             </div>
 
-            {/* <li className="resume-item">
+            <li className="resume-item">
               <div className="title">
                 <a
                   href="https://www.murraystate.edu/" 
@@ -185,7 +213,7 @@ const Resume = () => {
                 <p>- Graduate Assistant - University Libraries</p>
               </div>
               <div className="pointer"></div>
-            </li> */}
+            </li>
 
             <li className="resume-item">
               <div className="title">
@@ -201,7 +229,7 @@ const Resume = () => {
 
               <div className="sub-title">Bachelor of Technology,{" "}
                 <a
-                  href="https://www.bitmesra.ac.in/Show_Department_Section?cid=1&deptid=70" 
+                  href="https://www.lpu.in" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="resume-links"
